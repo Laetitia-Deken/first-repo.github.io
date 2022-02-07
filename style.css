@@ -1,0 +1,21 @@
+h1{
+font-size: 70px;
+text-align: center;
+color: #de7471
+}
+
+h2{
+font-size: 50px;
+text-align: left;
+color: #000000
+}
+
+p{
+font-size: 30px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #ffffff;
+}
