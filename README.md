@@ -1,2 +1,2 @@
-# LaetitiaDeken.github.io - Welcome !
+# laetitiadeken.github.io - Welcome !
 My repositories
