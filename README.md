@@ -1,2 +1,2 @@
 # laetitia-deken.github.io - Welcome !
-My repositories
+Quête HTML et CSS Wild Code School
