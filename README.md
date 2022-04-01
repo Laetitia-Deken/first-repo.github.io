@@ -1,2 +1,2 @@
-# laetitia-deken.github.io - Welcome !
-Quête HTML et CSS Wild Code School
+# laetitia-deken.github.io - My first repository
+Training Quest HTML and CSS - Data Analyst - Wild Code School
