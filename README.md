@@ -1,2 +1,2 @@
-# laetitia-deken.github.io - My first repository
+# laetitiadeken.github.io - My first repository
 Training Quest HTML and CSS - Data Analyst - Wild Code School
